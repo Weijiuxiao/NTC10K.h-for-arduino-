@@ -1,7 +1,9 @@
 #include <NTC10K.h>
 
 //  created 17 April 2021
-//  by Alex
+//  by Alex（weijiuxiao）
+//  相关解释说明：
+//  https://blog.csdn.net/changsic/article/details/115733598
 
 //分压电阻为 4.7K
 //连接方式：GND----|4.7K|--|--|NTC10K|---+5V
